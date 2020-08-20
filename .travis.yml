@@ -1,0 +1,10 @@
+language: python
+python:
+  - 3.6
+install:
+  - pip install --no-cache -r h1st/requirements.txt
+  - pip install --no-cache -r h1st/requirements.dev.txt
+script:
+  - python3 setup.py install
+  - nose2 -c ./tests/unittest.cfg --verbosity 2 --with-coverage --coverage-report xml
+

@@ -1,4 +1,4 @@
-#### [Get a FREE high-quality T-shirt](https://bit.ly/free-tshirt-for-h1st) and celebrate the launch of H1st AI! :tada:
+#### [Get a FREE premium T-shirt](https://bit.ly/free-tshirt-for-h1st) and celebrate the launch of H1st AI! :tada:
 <img src="https://h1st-static.s3.amazonaws.com/H1st-logo.png" alt="H1st" width="100"/>
 
 
@@ -17,7 +17,7 @@ Human-First AI (`H1st` AI) solves three critical challenges in real-world data s
 
 2. __Data scientists need human tools:__ Today‘s tools are to compete rather than to collaborate. When multiple data scientists work on the same project, they are effectively competing to see who can build the better model. `H1st` breaks a large modeling problem into smaller, easier parts. This allows true collaboration and high productivity, in ways similar to well-established software engineering methodology. 
 
-3. __AI needs human trust:__ AI models can't be deployed when they lack user trust. AI increasingly face regulatory challenges. `H1st` supports model description and explaination at multiple layers, enabling transparent and trustworthy AI.
+3. __AI needs human trust:__ AI models can't be deployed when they lack user trust. AI increasingly face regulatory challenges. `H1st` supports model description and explanation at multiple layers, enabling transparent and trustworthy AI.
 
 
 ## Get started
@@ -25,12 +25,12 @@ Human-First AI (`H1st` AI) solves three critical challenges in real-world data s
 
 For a simple example to get started, take a look at the [forecasting example](examples/Forecasting). H1st Model API is designed to work well interactive in notebooks e.g. [examples/Forecasting/notebooks/forecast.ipynb](examples/Forecasting/notebooks/forecast.ipynb) as well as in structured project where models & components are importable e.g. [examples/Forecasting/models/forecast.py](examples/Forecasting//models/forecast.py).
 
-To fully understand H1st philosophy and features, do check out the [H1st AI Tutorial](http://h1st.ai).
+To fully understand H1st philosophy and features, do check out the [H1st AI Tutorial](https://h1st.ai).
 
 
 
 ## Read the Tutorials and API Documentation
-Get started with `H1st` Tutorial and API Documentation at [h1st.ai](http://h1st.ai).
+Get started with `H1st` Tutorial and API Documentation at [h1st.ai](https://docs.h1st.ai/).
 
 
 ## Join and Learn from Our Open-Source Community
